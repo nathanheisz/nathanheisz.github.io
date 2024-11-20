@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
-  pronouns         : "he/him' # example: "she/her"  
+  pronouns         : "he/him" # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Hamilton"
   employer         : "McMaster University"
